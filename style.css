@@ -1,0 +1,38 @@
+main #img1 {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: -1px;
+  left: -1px;
+  z-index: -1;
+}
+
+main #img2 {
+  width: 100%;
+  margin-top: -8px;
+  z-index: 0;
+}
+
+main aticle .block_um {
+  width: 400px;
+  height: 400px;
+  box-shadow: 4px 4px 10px solid #ffffff;
+  z-index: 1;
+}
+main #s1{
+  height: 100vh;
+
+  text-align: center;
+  align-items: center;
+
+  display: flex;
+  justify-content: center;
+
+}
+main #img3 {
+  height: 400px;
+  width: 400px;
+  z-index: 2;
+
+  margin: 0 auto;
+}

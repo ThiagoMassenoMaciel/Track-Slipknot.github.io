@@ -1,0 +1,155 @@
+Link fonte databsed in this web site (https://albumsinorder.com/slipknot-albums-in-order/#:~:text=Here%20is%20the%20list%20of%20Slipknot%20Albums%20in,The%20End%2C%20So%20Far%20%E2%80%94%20September%2030%2C%202022)
+
+link to images (https://wallpapersafari.com/w/hoESq4) (https://wallofsoundau.com/2022/09/26/slipknot-the-end-so-far-album-review/)
+
+html5 ( https://albumsinorder.com/slipknot-albums-in-order/#:~:text=Here%20is%20the%20list%20of%20Slipknot%20Albums%20in,The%20End%2C%20So%20Far%20%E2%80%94%20September%2030%2C%202022 )
+
+get the letters (https://slipknot.fandom.com/wiki/Custer) by each music
+
+I used this my projecto (https://thiagomassenomaciel.github.io/SimpleProject-Front-End.github.io/PROTOTYPE_2/index.html)
+
+
+link do projeto do design deste projeto no figma ( https://www.figma.com/file/7ToezZb2tDAVTjbOU6LtwL/Track-Slipknot-(Copy)?type=design&mode=design&t=DRcj5XVAyvgSn3cP-1 )
+
+
+All Slipknot Albums in Order: Check Out The List of Slipknot Albums in Order of Release Here!
+Here is the list of Slipknot Albums in Order of Release Date:
+
+until now 95 musics
+
+1:Slipknot — June 29, 1999
+    Tracks
+
+    1  742617000027
+    2  (sic)
+    3  Eyeless
+    4  Wait and Bleed
+    5  Surfacing
+    6  Spit It Out
+    7  Tattered & Torn
+    8  Frail Limb Nursery
+    9  Purity
+    10 Liberate
+    11 Prosthetics
+    12 No Life
+    13 Diluted
+    14 Only One
+    15 Scissors
+
+2::Iowa — August 28, 2001
+    Tracks
+
+    1  (515)
+    2  People = Shit
+    3  Disasterpiece
+    4  My Plague
+    5  Everything Ends
+    6  The Heretic Anthem
+    7  Gently
+    8  Left Behind
+    9  The Shape
+    10 I Am Hated
+    11 Skin Ticket
+    12 New Abortion
+    13 Metabolic
+    14 Iowa
+3:::Vol. 3: (The Subliminal Verses) — May 25, 2004
+
+    Tracks
+
+    1  Prelude 3.0
+    2  The Blister Exists
+    3  Three Nil
+    4  Duality
+    5  Opium of the People
+    6  Circle
+    7  Welcome
+    8  Vermilion
+    9  Pulse of the Maggots
+    10  Before I Forget
+    12  Vermilion Pt. 2
+    13  The Nameless
+    14  The Virus of Life
+    15  Danger – Keep Away
+
+4::::All Hope Is Gone — August 26, 2008
+
+    Tracks
+
+    1  .execute.
+    2  Gematria (The Killing Name)
+    3  Sulfur
+    4  Psychosocial
+    5  Dead Memories
+    6  Vendetta
+    7  Butcher’s Hook
+    8  Gehenna
+    9  This Cold Black
+    10 Wherein Lies Continue
+    11 Snuff
+    12 All Hope Is Gone
+
+5::: .5: The Gray Chapter — October 21, 2014
+
+    Tracks
+
+    1  XIX
+    2  Sarcastrophe
+    3  AOV
+    4  The Devil in I
+    5  Killpop
+    6  Skeptic
+    7  Lech
+    8  Goodbye
+    10 Nomadic
+    11 The One That Kills the Least
+    12 Custer
+    13 Be Prepared for Hell
+    14 The Negative One
+    15 If Rain Is What You Want
+
+6::We Are Not Your Kind — August 9, 2019
+
+    Tracks
+
+    1  Insert Coin
+    2  Unsainted
+    3  Birth of the Cruel
+    4  Death Because of Death
+    5  Nero Forte
+    6  Critical Darling
+    7  A Liar’s Funeral
+    8  Red Flag
+    9  What’s Next
+    10 Spiders
+    11 Orphan
+    12 My Pain
+    13 Not Long for This World
+    14 Solway Firth
+
+7:The End, So Far — September 30, 2022
+
+    Tracks
+
+    1 Adderall
+    2 The Dying Song (Time to Sing)
+    3 The Chapeltown Rag
+    4 Yen
+    5 Hive Mind
+    6 Warranty
+    7 Medicine for the Dead
+    8 Acidic
+    9 Heirloom
+    10 H377
+    11 De Sade
+    12 Finale
+
+
+
+    dia 23 
+        4 horas planejando o projeto  pesquisando o texto e ordem das  musicas albums
+    dia 24 
+        9 horas aprendendo figma e ajeitando outras coisas
+    dia 25 
+        2h30   terminando o figma 
+        30 hora programando html css img e colocando no github 
