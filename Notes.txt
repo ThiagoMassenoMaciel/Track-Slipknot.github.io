@@ -8,6 +8,7 @@ get the letters (https://slipknot.fandom.com/wiki/Custer) by each music
 
 I used this my projecto (https://thiagomassenomaciel.github.io/SimpleProject-Front-End.github.io/PROTOTYPE_2/index.html)
 
+I used shapes shadown from this site (https://getcssscan.com/css-box-shadow-examples)
 
 link do projeto do design deste projeto no figma ( https://www.figma.com/file/7ToezZb2tDAVTjbOU6LtwL/Track-Slipknot-(Copy)?type=design&mode=design&t=DRcj5XVAyvgSn3cP-1 )
 
@@ -152,4 +153,4 @@ until now 95 musics
         9 horas aprendendo figma e ajeitando outras coisas
     dia 25 
         2h30   terminando o figma 
-        30 hora programando html css img e colocando no github 
+        1h hora programando html css img e colocando no github 
