@@ -4,4 +4,4 @@
 
 ## Este projeto💻 tem o objetivo de organizar todas as 95 🎼músicas de estúdio da banda Slipknot por albums💽
 
-Veja ele clicando [aqui]()
+Veja ele clicando [aqui](https://thiagomassenomaciel.github.io/Track-Slipknot.github.io/)
