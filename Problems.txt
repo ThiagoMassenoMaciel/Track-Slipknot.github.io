@@ -1,0 +1,20 @@
+I cannot see the width neighter the height from sections intot the section #s2 display flex 
+  try 
+    out this flex an put elementes in sticky way ou absolute + relative 
+
+  try change not put just sections 
+    <section id="s2">
+          <section id="Album">
+            Album
+          </section>
+
+          <section id="Musics">
+            Musics
+          </section>
+      </section>
+    
+    putting too div 
+  
+  🚫Não olhei a pagina web do atual files do projeto olhei para o que estava no repositório
+
+My strategery to mantain the album section on top with position xsticky property are not working 

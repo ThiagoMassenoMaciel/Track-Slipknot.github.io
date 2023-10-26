@@ -13,12 +13,25 @@ I used shapes shadown from this site (https://getcssscan.com/css-box-shadow-exam
 link do projeto do design deste projeto no figma ( https://www.figma.com/file/7ToezZb2tDAVTjbOU6LtwL/Track-Slipknot-(Copy)?type=design&mode=design&t=DRcj5XVAyvgSn3cP-1 )
 
 
+
+
+descrição de cada um dos albums  
+(https://metalnalata.com.br/slipknot-discografia-comentada/#:~:text=O%20chamado%20%E2%80%9CMFKR%E2%80%9D%20nunca%20foi%20considerado%20pelo%20Slipknot,One%E2%80%9D%2C%20reutilizada%20no%20%C3%A1lbum%20de%201999%20dentre%20outras.)
+
+
 All Slipknot Albums in Order: Check Out The List of Slipknot Albums in Order of Release Here!
 Here is the list of Slipknot Albums in Order of Release Date:
 
 until now 95 musics
 
 1:Slipknot — June 29, 1999
+
+    description 
+            Destaques: “(sic)”, “Eyeless”, “Surfacing”
+            Lançado em junho de 1999, este foi o álbum que levou o Slipknot ao topo das paradas servindo até recentemente como base para seu repertório ao vivo 
+
+
+
     Tracks
 
     1  742617000027
@@ -145,6 +158,7 @@ until now 95 musics
     11 De Sade
     12 Finale
 
+    Uzar o alt para colocar o mesmo endereço dentro de cada section #musics
 
 
     dia 23 
@@ -154,3 +168,11 @@ until now 95 musics
     dia 25 
         2h30   terminando o figma 
         1h hora programando html css img e colocando no github ....
+
+    dia 26 
+        ajeitar as cores para dentro de variaveis no css 
+        2H30  construir o resto do html que faltava do primeiro album 
+        o resto doso utros albuns é só controlc control v e mudando o section do album foto tittulo e descrição dos albuns 
+        e colocar o nome das musica eu faço isto umas  todo dia durante 10 minutos 
+
+        11' pedaço entre os albums
