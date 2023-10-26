@@ -18,3 +18,5 @@ I cannot see the width neighter the height from sections intot the section #s2 d
   🚫Não olhei a pagina web do atual files do projeto olhei para o que estava no repositório
 
 My strategery to mantain the album section on top with position xsticky property are not working 
+
+3:::Vol. 3: (The Subliminal Verses)

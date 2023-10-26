@@ -51,6 +51,14 @@ until now 95 musics
     15 Scissors
 
 2::Iowa — August 28, 2001
+
+        description 
+            Destaques: “People=Shit”, “Disasterpiece”, “My Plague”
+
+            O álbum foi lançado dia 28 de agosto, 2001 o mais violento da banda. Corey no ápice vocal que há época simplesmente gritava o máximo possível, o que causou danos em suas        cordas vocais, a banda exalando ódio… outra obra de arte.
+
+            “(515)” código de área das principais cidades do estado de Iowa – EUA, com gritos de extrema dor de Sid Wilson antecede “People = 
+            Shit”, outro hino de ódio da banda. Uma vez escutado o refrão da música, nunca mais é esquecido.
     Tracks
 
     1  (515)
@@ -68,6 +76,11 @@ until now 95 musics
     13 Metabolic
     14 Iowa
 3:::Vol. 3: (The Subliminal Verses) — May 25, 2004
+    description 
+        Destaques: “The Blister Exists”, “Vermilion”, “Opium Of The People”
+
+        Ao contrário dos dois álbuns anteriores, este lançado em 25 de maio de 2004 houve muito mais melodia quebrando um pouco o perfil violento construido anteriormente. Já que “Iowa” forçou os vocais de Corey, precisou realizar aulas vocais para canter sem dano. Os vocais gritados eram muito agudos.
+        As percussões são menos notáveis neste álbum , ou seja, a característica dele, é muito mais focado em sons agudos do que em graves.
 
     Tracks
 
@@ -88,6 +101,13 @@ until now 95 musics
 
 4::::All Hope Is Gone — August 26, 2008
 
+    description
+            Destaques: “Gematria (The Killing Name)”, “Psychosocial”, “Sulfur”
+
+            Acompanhando a banda desde o final de 2010, observava vários comentários negativos em relação ao All Hope Is Gone, porém, considero injustos porque por mais que as mais famosas “Dead Memories”, “Psychosocial” e “Sulfur” sejam boas, ainda tem muitas excelentes.
+
+            Encerrando com a violenta e barulhenta faixa-título, “All Hope Is Gone” é um álbum muito subestimado e marcado muito por “Psychosocial”. Vamos lá, o CD não é só essa música! Tristemente este foi o último álbum a contar com os membros originais Paul Gray e Joey Jordison, presentes desde as bandas anteriores à formação do Slipknot e atuaram no MFKR.
+
     Tracks
 
     1  .execute.
@@ -104,6 +124,12 @@ until now 95 musics
     12 All Hope Is Gone
 
 5::: .5: The Gray Chapter — October 21, 2014
+    description 
+        Destaques: “Sarcastrophe”, “Skeptic”, “The Negative One”
+                
+        Lançado no dia 21 de outubro de 2014 , este foi o álbum que fez Slipknot virar uma megabanda, apenas comparando que não foi a banda principal de festivais como o Sonisphere 2011, que o Iron Maiden era a principal e o Rock in Rio 2011, tocando antes de Metallica. 
+                
+        Em 2015, ano subsequente a este lançamento, Slipknot simplesmente foi headliner dos maiores festivais: Hellfest, Download, Rock In Rio, Soundwave, Rock Am Ring, Rock Im Park entre outros.
 
     Tracks
 
@@ -124,6 +150,13 @@ until now 95 musics
 
 6::We Are Not Your Kind — August 9, 2019
 
+    discriptions
+            Destaques: “Nero Forte”, “Orphan”, “Solway Firth”
+              Ano de lançamento dia 9 de agosto de 2019 . Com uma atmosfera um pouco conturbada tendo em vista a saída de Chris Fehn da banda
+              No geral, We Are Not Your Kind não é um álbum bom, poucas músicas acabam sendo realmente boas. “Interludes” estranhos como “Death Because Of Death”, “What’s Next” (música de elevador) acabam causando bastante estranheza, mas, em compensação, após “Death Because Of Death” tem a absurda “Nero Forte” que é uma das melhores músicas da banda. Pesada, riff brutal, refrão incrível.
+              “Orphan”, uma das mais brutais da carreira da banda, com pedal duplo muito rápido e guitarras que lembram o (literalmente) hino “The Heretic Anthem” (Anthem é hino em inglês).
+              o álbum se encerra com “Solway Firth”, outra música que também é uma das mais brutais da banda, com EXCELENTE pedal duplo, uma voz absurda do Corey.
+
     Tracks
 
     1  Insert Coin
@@ -142,6 +175,15 @@ until now 95 musics
     14 Solway Firth
 
 7:The End, So Far — September 30, 2022
+
+    descriptions 
+            Destaques: “The Dying Song (Time To Sing)”, “Hive Mind”, “Warranty”
+              
+            Ano de lançamento dia 9 de agosto de 2019 .Já o álbum se inicia com “Aderall” é nada a ver com o estilo mais popular da banda.
+              
+            “Hive Mind” e “Warranty” são excelentes e merecem estar no top 3. Pesadas, ótimos refrões, perfeitas para escutar repetidamente. Porém, as duas seguintes “Medicine For The Dead” e “Acidic” já são mais “chatinhas”. Elas têm bons momentos, mas, em geral, são completamente “puláveis”.
+            
+            Apesar de, em “fóruns” na internet sobre a banda, os fãs tratarem o “The End, So Far”, inferiormente ao “We Are Not Your Kind”, o geral das músicas mostra que o lançamento de 2022 é muito superior e tem músicas que são ótimas para ouvir repetidamente e ouvir do início ao fim é menos sofrível que o de 2019.
 
     Tracks
 
@@ -170,9 +212,25 @@ until now 95 musics
         1h hora programando html css img e colocando no github ....
 
     dia 26 
-        ajeitar as cores para dentro de variaveis no css 
         2H30  construir o resto do html que faltava do primeiro album 
         o resto doso utros albuns é só controlc control v e mudando o section do album foto tittulo e descrição dos albuns 
         e colocar o nome das musica eu faço isto umas  todo dia durante 10 minutos 
 
         11' pedaço entre os albums
+        10' feito o album 2 
+
+        1h20' fazendo o control c control v dos próximos albums
+
+        
+        6'  ajeitar as cores para dentro de variaveis no css  FEITO 
+        ajeitar o alt da section album 2  FEITO 
+
+
+        15H30 MINUTOS PLANEJANDO o design E PENSANDO NO PROJETO  um pouco de tempo so olhando outros projetos 
+                                        so fazendo a arte umas 5 HORAS
+        5H27' programando 
+
+        resto programando   
+        -->COLOCAR O NOME DAS MUSICAS 
+        -->COLOCAR O JAVA SCRIPT
+        -->COLOCAR A LETRA DAS MÚSICAS 
