@@ -369,3 +369,4 @@ until now 95 musics
         -->COLOCAR O JAVA SCRIPT
         -->COLOCAR A LETRA DAS MÚSICAS 
         --> LEMBRAR DE FAZER OUTRAS BRANCHES MUDANDO DE COR E OU TIRANDO AS SOMBRARS DAS DIVS 
+        --> Reajeitar as imagems do album 3 e 4 que retornaram a ser maiusculo o que n é 
