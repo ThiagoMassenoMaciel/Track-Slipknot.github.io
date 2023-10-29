@@ -71,7 +71,7 @@ main #s1{
   margin: 0 auto;
 }
 
-main #s2, main #s3 , main #s4, main #s5,  main #s6,  main #s7 {
+main #s2, main #s3 , main #s4, main #s5,  main #s6,  main #s7 ,  main #s8 {
   display: flex;
   flex-direction: row;
   height: max-content;
@@ -83,7 +83,7 @@ main #s2, main #s3 , main #s4, main #s5,  main #s6,  main #s7 {
 }
 
 
-#s2 #Album, #s3 #Album,  #s4 #Album , #s5 #Album ,  #s6 #Album , #s7 #Album {
+#s2 #Album, #s3 #Album,  #s4 #Album , #s5 #Album ,  #s6 #Album , #s7 #Album ,  #s8 #Album {
 
   box-sizing: border-box;
   display: flex;
@@ -111,7 +111,7 @@ main #s2, main #s3 , main #s4, main #s5,  main #s6,  main #s7 {
   box-shadow: var(--color-branco-opacity-80) 2px 2px 5rem, rgba(255, 255, 255, 0.765) 2px 2px 5rem, var(--color-branco-opacity-100) 2px 2px 5rem;
 }
 
-#s2 #Musics, #s3 #Musics, #s4 #Musics,  #s5 #Musics,   #s6 #Musics , #s7 #Musics{
+#s2 #Musics, #s3 #Musics, #s4 #Musics,  #s5 #Musics,   #s6 #Musics , #s7 #Musics,  #s8 #Musics{
   width:67rem;
   height: 153.5rem;
   position: static;
@@ -166,7 +166,7 @@ main #s2, main #s3 , main #s4, main #s5,  main #s6,  main #s7 {
   border-radius: 8rem;
 }
 
-#s4 #Album #Name_Album, #s5 #Album #Name_Album , #s6 #Album #Name_Album , #s7 #Album #Name_Album{
+#s4 #Album #Name_Album, #s5 #Album #Name_Album , #s6 #Album #Name_Album , #s7 #Album #Name_Album,  #s8 #Album #Name_Album{
     height: 10.5rem;
 } 
 
@@ -189,7 +189,7 @@ main #s2, main #s3 , main #s4, main #s5,  main #s6,  main #s7 {
   border-radius: 4rem;
 }
 
-#s4  #Description_Album, #s5 #Description_Album , #s6 #Description_Album , #s7 #Description_Album{
+#s4  #Description_Album, #s5 #Description_Album , #s6 #Description_Album , #s7 #Description_Album, #s8 #Description_Album{
   height: 35rem;
 } 
 
